@@ -1,0 +1,10 @@
+{
+  "name": "Edmore Taroiwa — Digital Portfolio",
+  "short_name": "Edmore",
+  "description": "Projects in web development, education, African quizzes and creative technology.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080b16",
+  "theme_color": "#080b16",
+  "icons": [{"src":"favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}
